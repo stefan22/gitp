@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/stefan22/gitp/issues"
   },
-  "homepage": "https://github.com/stefan22/gitp#readme"
+  "homepage": "https://github.com/stefan22/gitp#readme",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
 }
